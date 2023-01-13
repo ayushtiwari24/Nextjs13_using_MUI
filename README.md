@@ -34,3 +34,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+///////////
+
+Created a Sample NextJs 13 project and integrated MaterialUI in it.
+
+--used app directory structure for creating different pages and routing.
+
+--In Home page used materialUi to show buttons and roboto font is used, enabled dark theme using material ui.
+
+--on moving to todos list of todos is uploaded using external api .
+--on clicking a todo it's state comes at last of the page.
+--on clicking localhost:3000/search , a search bar is on tying in searchbar and clicking search , search results are uploaded using the externalapi .
+
+-- in .env.local , API_Key for api to load search results is given .
+
+--npm run dev to start the project
+
+//////
